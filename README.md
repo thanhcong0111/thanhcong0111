@@ -1,3 +1,4 @@
+```markdown
 # WELCOME TO MY CHANNEL
 
 Being willing to work and study is my life's mission. As a VNUHCM - University of Science student, I believe it's not only a strong motivation but also a series of challenging obstacles that constantly push me to develop both soft and technical skills.
