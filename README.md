@@ -29,7 +29,6 @@ My background is in computer science , especially in information security. There
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="thanhcong0111" width="100%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhcong0111&theme=tokyonight&hide_border=false" alt="thanhcong0111" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhcong0111" width="100%"/>
     </td>
     <td>
       <p align="center"> 
