@@ -5,7 +5,7 @@ Hi, my name is Vu Thanh Cong, you can also call me Eddy. Being willing to work a
 
 My background is in computer science , especially in information security. Therefore, I believe that the combination of security and developer is really essential in nowadays.
 
-# 💻Tech Stack
+### 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
@@ -19,8 +19,7 @@ My background is in computer science , especially in information security. There
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-
+### 📊GitHub Stats :
 <table style="width:100%;">
   <tr>
     <td>
