@@ -29,7 +29,7 @@ My background is in computer science , especially in information security. There
     </td>
     <td>
       <p align="center"> 
-        <img src="https://th.bing.com/th/id/R.9fb64aa96ff2fbb2f88e4b859a8fc30b?rik=M2P9UsyUe%2fHAkw&pid=ImgRaw&r=0" alt="dev" width="100%"/>
+        <img src="https://i.pinimg.com/originals/de/4a/fd/de4afd5ed84f1b037171aa2740b3253d.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
