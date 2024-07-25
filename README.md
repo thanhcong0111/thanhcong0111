@@ -5,9 +5,6 @@ Hi, my name is Vu Thanh Cong. Being willing to work and study is my life's missi
 
 My background is in computer science , especially in information security. Therefore, I believe that the combination of security and developer is really essential in nowadays.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamthnhcng) 
-
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
