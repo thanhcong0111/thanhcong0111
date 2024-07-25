@@ -1,6 +1,6 @@
 <h2 align="center">WELCOME TO MY CHANNEL</h2>
 
-Being willing to work and study is my life's mission. As a VNUHCM - University of Science student, I believe it's not only a strong motivation but also a series of challenging obstacles that constantly push me to develop both soft and technical skills.
+Being willing to work and study is my life's mission. As a [VNUHCM - University of Science](https://en.hcmus.edu.vn/) student, I believe it's not only a strong motivation but also a series of challenging obstacles that constantly push me to develop both soft and technical skills.
 
 My background is in computer science , especially in information security. Therefore, I believe that the combination of security and developer is really essential in nowadays.
 
