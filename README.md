@@ -23,6 +23,22 @@ My background is in computer science , especially in information security. There
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 # 📊GitHub Stats :
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="thanhcong0111" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhcong0111&theme=tokyonight&hide_border=false" alt="thanhcong0111" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhcong0111" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ![](https://github-readme-stats.vercel.app/api?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thanhcong0111&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhcong0111&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
