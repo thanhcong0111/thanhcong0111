@@ -1,12 +1,8 @@
-<h2 align="center">WELCOME TO MY CHANNEL</h2>
+<h2 align="center">WELCOME TO MY CHANNEL 👋</h2>
 
-Being willing to work and study is my life's mission. As a [VNUHCM - University of Science](https://en.hcmus.edu.vn/) student, I believe it's not only a strong motivation but also a series of challenging obstacles that constantly push me to develop both soft and technical skills.
+> Being willing to work and study is my life's mission. As a [VNUHCM - University of Science](https://en.hcmus.edu.vn/) student, I believe it's not only a strong motivation but also a series of challenging obstacles that constantly push me to develop both soft and technical skills.
 
-My background is in computer science , especially in information security. Therefore, I believe that the combination of security and developer is really essential in nowadays.
-
-Currently, I am actively seeking an internship position related to developer or information security. Don't hesitate to connect with me.
-
-Fun fact: I am an "I" trait on the DISC test.
+> My background is in computer science , especially in information security. Therefore, I believe that the combination of security and developer is really essential in nowadays.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamthnhcng) 
